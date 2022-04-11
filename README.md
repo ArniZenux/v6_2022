@@ -1,2 +1,5 @@
-# v6_2022
-Verkefni 6 - Vefforritun 
+# v5-2022
+
+Viðburður App
+
+Verkefni 5 - React + backend (verkefni 4) 
